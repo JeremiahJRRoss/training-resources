@@ -1,0 +1,79 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=US, O=CriblStudio, OU=Training, CN=Training Root CA
+        Validity
+            Not Before: Jun 11 23:45:49 2024 GMT
+            Not After : Jun 11 23:45:49 2034 GMT
+        Subject: L=US, O=CriblStudio, OU=Training, CN=student.bootcamp.ccsc.cribl.studio
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f6:33:a7:4c:14:20:70:cf:12:88:22:77:2d:fc:
+                    a2:9e:3c:51:f0:e0:0e:1e:fe:c3:af:45:1c:2a:98:
+                    d5:54:b1:c9:94:c0:3d:08:53:74:48:f5:09:1b:e3:
+                    2d:b5:a2:e5:e9:6a:02:d0:57:6b:a4:07:a5:fe:19:
+                    31:08:43:13:64:03:31:8a:97:60:15:99:94:fb:91:
+                    35:cd:82:00:fd:83:2f:67:5d:42:57:4e:51:bd:19:
+                    3e:7d:ee:5a:27:4e:3f:5e:84:b4:ed:d9:88:83:59:
+                    91:c9:e3:6e:39:46:45:ef:a3:7d:4f:9e:06:a3:94:
+                    6e:29:74:10:49:be:23:ef:f0:e7:8c:d6:82:4b:ef:
+                    c6:3c:0e:7f:c6:bf:31:2a:96:c0:56:a8:a4:4d:b6:
+                    f7:28:bd:af:d4:bf:29:7f:f0:67:d1:a8:e0:ef:35:
+                    51:33:82:4f:0a:b4:7c:c8:04:66:5b:0a:88:dd:dc:
+                    6a:57:95:be:0c:28:ff:6d:06:18:4d:e1:6c:9e:6a:
+                    fa:4b:0e:f5:95:84:cd:6d:51:63:38:f7:bf:91:a4:
+                    2c:0e:6e:0d:eb:d6:f4:f3:97:1b:7d:04:d3:6c:4d:
+                    d7:90:bf:46:39:d8:49:85:b4:9b:0f:cf:76:41:d3:
+                    9b:9e:31:1b:b9:1c:ac:bb:b6:48:72:cf:ac:77:33:
+                    b4:1f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Subject Key Identifier: 
+                F5:F5:98:2F:2C:7B:87:82:32:25:8D:26:E9:90:B5:CF:13:59:7E:0D
+            X509v3 Authority Key Identifier: 
+                CD:D6:57:BC:2A:F6:68:40:08:9F:CE:53:A1:15:BB:16:06:91:F8:F1
+            Authority Information Access: 
+                CA Issuers - URI:http://repo.cribl.studio/ccsc/bootcamp/proxy/root-ca.cer
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://repo.cribl.studio/ccsc/bootcamp/proxy/root-ca.crl
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:65:02:30:49:62:02:88:9c:c2:5a:fe:44:de:52:85:39:c3:
+        08:e7:7f:f8:b4:3a:58:e2:26:a9:3c:cb:36:20:15:ca:5b:d5:
+        f6:cd:da:37:0f:8b:20:a2:db:52:78:d9:3b:69:51:3d:02:31:
+        00:8f:62:71:32:70:e0:5d:a0:65:ea:33:c2:cb:43:21:67:d7:
+        49:4c:6e:bb:bb:b7:66:4e:b7:26:d5:50:4f:71:6d:e5:03:fe:
+        97:f3:d4:bc:12:f7:f4:18:88:67:c5:e7:19
+-----BEGIN CERTIFICATE-----
+MIIDpTCCAyugAwIBAgIBAzAKBggqhkjOPQQDAjBRMQswCQYDVQQGEwJVUzEUMBIG
+A1UECgwLQ3JpYmxTdHVkaW8xETAPBgNVBAsMCFRyYWluaW5nMRkwFwYDVQQDDBBU
+cmFpbmluZyBSb290IENBMB4XDTI0MDYxMTIzNDU0OVoXDTM0MDYxMTIzNDU0OVow
+YzELMAkGA1UEBwwCVVMxFDASBgNVBAoMC0NyaWJsU3R1ZGlvMREwDwYDVQQLDAhU
+cmFpbmluZzErMCkGA1UEAwwic3R1ZGVudC5ib290Y2FtcC5jY3NjLmNyaWJsLnN0
+dWRpbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPYzp0wUIHDPEogi
+dy38op48UfDgDh7+w69FHCqY1VSxyZTAPQhTdEj1CRvjLbWi5elqAtBXa6QHpf4Z
+MQhDE2QDMYqXYBWZlPuRNc2CAP2DL2ddQldOUb0ZPn3uWidOP16EtO3ZiINZkcnj
+bjlGRe+jfU+eBqOUbil0EEm+I+/w54zWgkvvxjwOf8a/MSqWwFaopE229yi9r9S/
+KX/wZ9Go4O81UTOCTwq0fMgEZlsKiN3caleVvgwo/20GGE3hbJ5q+ksO9ZWEzW1R
+Yzj3v5GkLA5uDevW9POXG30E02xN15C/RjnYSYW0mw/PdkHTm54xG7kcrLu2SHLP
+rHcztB8CAwEAAaOCARUwggERMA4GA1UdDwEB/wQEAwIHgDAJBgNVHRMEAjAAMBMG
+A1UdJQQMMAoGCCsGAQUFBwMCMB0GA1UdDgQWBBT19ZgvLHuHgjIljSbpkLXPE1l+
+DTAfBgNVHSMEGDAWgBTN1le8KvZoQAifzlOhFbsWBpH48TBUBggrBgEFBQcBAQRI
+MEYwRAYIKwYBBQUHMAKGOGh0dHA6Ly9yZXBvLmNyaWJsLnN0dWRpby9jY3NjL2Jv
+b3RjYW1wL3Byb3h5L3Jvb3QtY2EuY2VyMEkGA1UdHwRCMEAwPqA8oDqGOGh0dHA6
+Ly9yZXBvLmNyaWJsLnN0dWRpby9jY3NjL2Jvb3RjYW1wL3Byb3h5L3Jvb3QtY2Eu
+Y3JsMAoGCCqGSM49BAMCA2gAMGUCMEliAoicwlr+RN5ShTnDCOd/+LQ6WOImqTzL
+NiAVylvV9s3aNw+LIKLbUnjZO2lRPQIxAI9icTJw4F2gZeozwstDIWfXSUxuu7u3
+Zk63JtVQT3Ft5QP+l/PUvBL39BiIZ8XnGQ==
+-----END CERTIFICATE-----
